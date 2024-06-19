@@ -1,0 +1,59 @@
+Name: James Wesley Buluma
+Email: jameswesleyblue@gmail.com
+GitHub: wesleybluish@gmail.com
+
+1.	Installation of VS Code on my Windows 10:
+I went to the official Visual Studio Code (https://code.visualstudio.com/) and clicked on the download for Windows button.
+Once the installer was downloaded, I accessed the installation file by double-clicking the icon.
+As it is usually recommended, the installation process follows the installer wizard where I made some clicks on the screen to make the installation complete.
+In terms of system requirements, there are no pre-installed software requirements for installing VS Code on Windows 10.
+
+2.	First-time Setup:
+Starting the VS Code application for the first time, I was welcomed with an interface where I chose the interface color theme and set some preferences (optional).
+I applied some of the popular extensions that included Prettier-Code formatter, C++, Code editor, Python Jupyter, and Live Server for web development Classes.
+Appearance features included Font Style, Line Spacing, as well as the color palette in the View menu > Preferences > Settings Section.
+This allowed the configuration of Git integration since I was able to input my Git credentials in order to utilize version control in VS Code.
+
+3.	 User Interface Overview:
+The Activity Bar (left vertical bar): Provided easy navigation to dimensions such as Explorer or Search, Source Control, and Extensions.
+The Side Bar (left panel): It displayed various views such as file explorer, search, source control, and more depending on one’s Activity Bar entry selected.
+Editor Group (center panel): Provided the focal workspace of the program, where I could use tools to manipulate the content of files, as well as view them. Having multiple editor tabs, there is a possibility to edit two or more at once.
+Status Bar (bottom bar): Provided info about the current file and its line, and other context of the current script line being executed.
+
+4.	 Command Palette:
+The Command Palette is an essential tool in VS Code that helped in achieving several tasks within the editor through commands.
+Accessed by a keyboard shortcut (‘Ctrl+Shift+P’) on Windows
+Some of the common operations used are opening a file, changing the theme, adding or updating an extension, or commanding.
+
+5.	 Extensions in VS Code:
+They integrate features to the base VS Code, providing additional functionality for coding languages and development processes.
+ Installed extensions: I accessed the Extensions view by navigating to the extensions via the command palette. (Ctrl+Shift+X)
+ Learned that there are extensions for commonly used by web developers, e.g. Live Server extensions, Emmet, Debugger for Chrome, and language extensions, such as ESLint or Prettier.
+
+6.	 Integrated Terminal:
+VS Code comes with a terminal window and I launched the terminal and shell command-line utilities as well as scripts from within the editor. (Click the Terminal option at the top of the integrated panel).
+
+7.  File and Folder Management:
+This window is accessed by pressing the keyboard shortcut Ctrl+Shift+E and it is used to create new files and folders, as well as to open the already existing files.
+The next option is to use a right click inside the explorer to get a context menu that contains the options for operation on the files/folders.
+If the selected files are currently open, cycle through the open files using the shortcut keys of either `Ctrl + Tab` for (Windows) to quickly switch between files.
+A file can be accessed using the `Ctrl+P` key in windows which opens the “Go to File” panel in which any file located in the workspace can be opened.
+
+8.	Settings and Preferences:
+Navigate to the Settings tab, through the menu, File > Preferences > Settings or by using a shortcut: Ctrl +,.
+Personalize the text and interface using the “text editor color scheme” and adjust the font together with the specific keys under the “keyboard shortcuts” tab.
+A user can also add any new settings of his/her own by working on the file entitled ‘settings. ’ json` file.
+
+9. Debugging in VS Code:
+Initiate debugging following these procedures: create a new launch configuration file for debugging: launch. inside of the `vscode` folder of your project.
+Set up the launch configuration depending on the BTL and the type of project: NodeJS, Python, C++.
+One way to achieve this is by pressing the F9 key on your keyboard or putting the cursor on the left edge of the line number you want to debug and left-clicking.
+Begin debugging by clicking on the green “Start Debugging” button or by simultaneously pressing `F5` key.
+Debugging can be done by using the Debug view to run your code one step at a time and has facilities for viewing variables as well as the ability to add and remove breakpoints.
+
+10. Using Source Control:
+Navigate to the Source Control view by pressing the hotkey ‘Ctrl+Shift+G’ and then select the new Git Repository by clicking on “Initialize repository”.
+Stage changes can be made by clicking the '+' sign beside the modified files.
+Saving your changes can be done by typing in the commit message, followed by the checkmark icon next to it, or else pressing the ‘Ctrl+Enter’ in the keyboard.
+Sync your local changes to other repositories such as GitHub by clicking the “Push to GitHub” button on the toolbar or using the “Push” command in the Command Palette.
+
